@@ -1,5 +1,5 @@
-#Yunliang Zhao
-#Mechanical Engineer
+# Yunliang Zhao
+# Mechanical Engineer
 ## Education							       		
 - M.S., Mechanical Engineer	| Carnegie Mellon University (_Expected May 2026_)  			        		
 - B.S., Mechanical Engineer | New York University (_May 2023_)
