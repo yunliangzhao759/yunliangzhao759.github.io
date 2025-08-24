@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: Yunliang Zhao's Portfolio
-logo: /assets/Profile_picture.jpg
+logo: /assets/Profile_Picture.jpg
 #description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
