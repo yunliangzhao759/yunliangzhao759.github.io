@@ -9,7 +9,7 @@
   New York University — *(May 2023)*  
 
 ## Work Experience
-** Design and Structural Engineer Intern @ Nanjing Encos Intelligent Technology (_Nanjing, China_)**
+**Design and Structural Engineer Intern @ Nanjing Encos Intelligent Technology (_Nanjing, China_)**
 - Designed, manufactured, and assembled custom motors using **SolidWorks**
 - Generated engineering drawings and directly communicated with manufacturers
 - Gained experience designing **planetary reducer gearboxes**
