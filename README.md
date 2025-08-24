@@ -16,6 +16,6 @@
 - Gained experience designing **planetary reducer gearboxes**
 - Calibrated motor parameters using VESC firmware and hardware tools
 
-<img src="/assets/Side_View_of_Custom_Motor.png" alt="Custom Motor" width="350"/>  
+<img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="350"/>  
 *Cross-section view of one of the customized motors*
 
