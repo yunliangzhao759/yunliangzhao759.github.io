@@ -1,7 +1,7 @@
 # Yunliang Zhao  
 ### Mechanical Engineer  
 
-[📄 Download My Resume](assets/resume.pdf)
+[📄 Download My Resume](assets/Yunliang_Zhao_Resume.pdf)
 
 ---
 
@@ -12,9 +12,19 @@ I enjoy applying quantitative and engineering methods to solve real-world proble
 
 ---
 
+## Education  
+
+- **M.S., Mechanical Engineering**  
+  Carnegie Mellon University — *(Expected May 2026)*  
+
+- **B.S., Mechanical Engineering (Minor: Management)**  
+  New York University — *(May 2023)*  
+
+---
+
 ## Work Experience  
 
-**Design and Structural Engineer Intern — Nanjing Encos Intelligent Technology Co., Ltd.**  
+**Design and Structural Engineer Intern — Nanjing Encos**  
 _Nanjing, China · Sep 2023 – Aug 2024_  
 - Designed and assembled custom motors using **SolidWorks**, delivering reliable prototypes tailored to client requests  
 - Produced manufacturing drawings and coordinated directly with suppliers, reducing design-to-production cycle time  
@@ -51,15 +61,7 @@ _Sep 2022 – May 2023_
 
 ---
 
-## Education  
 
-- **M.S., Mechanical Engineering**  
-  Carnegie Mellon University — *(Expected May 2026)*  
-
-- **B.S., Mechanical Engineering (Minor: Management)**  
-  New York University — *(May 2023)*  
-
----
 
 ## Skills  
 
