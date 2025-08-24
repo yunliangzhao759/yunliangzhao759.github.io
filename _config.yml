@@ -2,5 +2,6 @@
 title: Yunliang Zhao's Portfolio
 logo: /assets/Profile.jpg
 #description: text below image
-# show_downloads: true
+show_downloads: false
+github:
 theme: jekyll-theme-minimal
