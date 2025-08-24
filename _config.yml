@@ -4,4 +4,6 @@ logo: /assets/Profile.jpg
 #description: text below image
 show_downloads: false
 github:
+  is_user_page: false
+  is_project_page: false
 theme: jekyll-theme-minimal
