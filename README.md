@@ -39,22 +39,22 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - 
  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
   <figure style="flex:1 1 45%; text-align:center;">
-    <img src="/assets/Hip_Exo_Separate.jpg" alt="Hip_Exo_Separate" width="200"/>
+    <img src="/assets/Hip_Exo_Separate.jpg" alt="Hip_Exo_Separate" width="180"/>
     <figcaption style="font-size:0.9em; color:gray;"><em>Hip Exoskeleton V2 Laid Out</em></figcaption>
   </figure>
 
   <figure style="flex:1 1 45%; text-align:center;">
-    <img src="/assets/Hip_Exo_Side.jpg" alt="Hip_Exo_Side" width="250"/>
+    <img src="/assets/Hip_Exo_Side.jpg" alt="Hip_Exo_Side" width="230"/>
     <figcaption style="font-size:0.9em; color:gray;"><em>Side View of Hip Exoskeleton</em></figcaption>
   </figure>
 
   <figure style="flex:1 1 45%; text-align:center;">
-    <img src="/assets/PCB_Cased.jpg" alt="PCB_Cased" width="250"/>
+    <img src="/assets/PCB_Cased.jpg" alt="PCB_Cased" width="230"/>
     <figcaption style="font-size:0.9em; color:gray;"><em>Electrical Backpack</em></figcaption>
   </figure>
 
   <figure style="flex:1 1 45%; text-align:center;">
-    <img src="/assets/PCB_Prototype.jpg" alt="PCB_Prototype" width="200"/>
+    <img src="/assets/PCB_Prototype.jpg" alt="PCB_Prototype" width="180"/>
     <figcaption style="font-size:0.9em; color:gray;"><em>Prototype of PCB</em></figcaption>
   </figure>
 </div>
