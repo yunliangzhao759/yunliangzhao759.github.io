@@ -6,7 +6,18 @@
 ---
 
 ## About Me  
-I am a second-year Master’s student in Mechanical Engineering at Carnegie Mellon University, with a strong background in robotics, control systems, and mechanical design. My passion for robotics started in high school competitions such as FRC and RoboMaster, where I developed both technical and teamwork skills. I enjoy applying quantitative and engineering methods to solve real-world problems.
+I am a second-year Master’s student in Mechanical Engineering at Carnegie Mellon University, with a strong background in robotics, control systems, and mechanical design.  
+
+My passion for robotics started in high school competitions such as FRC and **RoboMaster**, where I developed both technical and teamwork skills. At NYU, I served as **Captain of the RoboMaster Team**, leading over 90 members to design, fabricate, and compete with advanced robots. These experiences shaped my ability to collaborate across large teams, manage complex projects, and bring designs from concept to reality.  
+
+I enjoy applying quantitative and engineering methods to solve real-world problems, and I am also exploring opportunities to apply these skills in consulting.  
+
+### Skills  
+- **Programming:** Python, MATLAB/Simulink, SQL  
+- **CAD & Simulation:** SolidWorks, Fusion360, Ansys  
+- **Controls:** MPC, LQR, MRAC, PD, Impedance Control  
+- **Hardware & Fabrication:** PCB design, soldering, 3D printing, CNC machining  
+- **Languages:** English, Mandarin  
 
 ---
 
@@ -22,7 +33,7 @@ I am a second-year Master’s student in Mechanical Engineering at Carnegie Mell
 
 ## Work Experience  
 
-**Design and Structural Engineer Intern — Nanjing Encos**  
+**Design and Structural Engineer Intern — Nanjing Encos Intelligent Technology Co., Ltd.**  
 _Nanjing, China · Sep 2023 – Aug 2024_  
 - Designed and assembled custom motors using **SolidWorks**, delivering reliable prototypes tailored to client requests  
 - Produced manufacturing drawings and coordinated directly with suppliers, reducing design-to-production cycle time  
@@ -59,12 +70,14 @@ _Sep 2022 – May 2023_
 
 ---
 
+## Leadership  
 
+**Captain — NYU UltraViolet RoboMaster Team**  
+_New York, United States · Sep 2020 – Aug 2023_  
+- Led a **90+ member team** to compete in the RoboMaster University League (3rd Place 2021, 5th Place 2022 & 2023)  
+- Oversaw design, fabrication, and testing of multiple competition robots each year  
+- Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
+- Fabricated parts with **3D printing, CNC machining, laser cutting, and waterjet**  
+- Applied **agile and waterfall project management** techniques to keep development on schedule  
 
-## Skills  
-
-- **Programming:** Python, MATLAB/Simulink, SQL  
-- **CAD & Simulation:** SolidWorks, Fusion360, Ansys  
-- **Controls:** MPC, LQR, MRAC, PD, Impedance Control  
-- **Hardware & Fabrication:** PCB design, soldering, 3D printing, CNC machining  
-- **Languages:** English, Mandarin  
+---
