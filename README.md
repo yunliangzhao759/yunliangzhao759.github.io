@@ -6,9 +6,7 @@
 ---
 
 ## About Me  
-I am a second-year Master’s student in Mechanical Engineering at Carnegie Mellon University, with a strong background in robotics, control systems, and mechanical design. My passion for robotics started in high school competitions such as FRC and RoboMaster, where I developed both technical and teamwork skills.  
-
-I enjoy applying quantitative and engineering methods to solve real-world problems. I am also interested in consulting, where I can leverage my analytical training to explore diverse industries, work with people from different backgrounds, and create practical impact.  
+I am a second-year Master’s student in Mechanical Engineering at Carnegie Mellon University, with a strong background in robotics, control systems, and mechanical design. My passion for robotics started in high school competitions such as FRC and RoboMaster, where I developed both technical and teamwork skills. I enjoy applying quantitative and engineering methods to solve real-world problems.
 
 ---
 
