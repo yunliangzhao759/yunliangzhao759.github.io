@@ -35,8 +35,23 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Designed PCBs and secure cable systems for hip exoskeletons (no failures over 3+ months)  
 - Assisted in Mechanical design of V1 and V2 hip exoskeleton prototypes  
 - Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
-- Developing a **controller for sit-to-stand assistance** in knee exoskeletons  
-
+- Developing a **controller for sit-to-stand assistance** in knee exoskeletons
+ <figure>
+  <img src="/assets/Hip_Exo_Separate.jpg" alt="Hip_Exo_Separate" width="350"/>
+  <figcaption><em>Hip Exoskeleton V2 Layed Out</em></figcaption>
+</figure>
+ <figure>
+  <img src="/assets/Hip_Exo_Side.jpg" alt="Hip_Exo_Side" width="350"/>
+  <figcaption><em>Side view of Hip Exoskeleton</em></figcaption>
+</figure>
+<figure>
+  <img src="/assets/PCB_Cased.jpg" alt="PCB_Cased" width="350"/>
+  <figcaption><em>Electrical Backpack</em></figcaption>
+</figure>
+<figure>
+  <img src="/assets/PCB_Prototype.jpg" alt="PCB_Prototype" width="350"/>
+  <figcaption><em>Prototype of PCB</em></figcaption>
+</figure>
 ---
 
 ## Work Experience  
