@@ -1,18 +1,25 @@
 # Yunliang Zhao  
-### Mechanical Engineer  
+### Mechanical Engineer | Robotics Enthusiast  
 
 [📄 Download My Resume](assets/Yunliang_Zhao_Resume.pdf)
 
 ---
 
+## 📌 Navigation  
+[About](#about-me) · [Skills](#skills) · [Research](#research-experience) · [Work](#work-experience) · [Leadership](#leadership) · [Projects](#projects) · [Education](#education) · [Honors](#honors--awards)  
+
+---
+
 ## About Me  
-I am a second-year Master’s student in Mechanical Engineering at Carnegie Mellon University, with a strong background in robotics, control systems, and mechanical design.  
+I am a Master’s student in Mechanical Engineering at Carnegie Mellon University, passionate about robotics, control systems, and mechanical design.  
 
-My passion for robotics started in high school competitions such as FRC and **RoboMaster**, where I developed both technical and teamwork skills. At NYU, I served as **Captain of the RoboMaster Team**, leading over 90 members to design, fabricate, and compete with advanced robots. These experiences shaped my ability to collaborate across large teams, manage complex projects, and bring designs from concept to reality.  
+I have hands-on experience in **robot design, control, and fabrication** through my research at CMU’s MetaMobility Lab, an engineering internship in custom motor development, and leadership in the RoboMaster robotics competition.  
 
-I enjoy applying quantitative and engineering methods to solve real-world problems, and I am also exploring opportunities to apply these skills in consulting.  
+I enjoy applying **quantitative and engineering methods** to solve real-world problems and am seeking opportunities in **Mechanical Engineering, Robotics, and related industries**.  
 
-### Skills  
+---
+
+## Skills  
 - **Programming:** Python, MATLAB/Simulink, SQL  
 - **CAD & Simulation:** SolidWorks, Fusion360, Ansys  
 - **Controls:** MPC, LQR, MRAC, PD, Impedance Control  
@@ -21,13 +28,14 @@ I enjoy applying quantitative and engineering methods to solve real-world proble
 
 ---
 
-## Education  
+## Research Experience  
 
-- **M.S., Mechanical Engineering**  
-  Carnegie Mellon University — *(Expected May 2026)*  
-
-- **B.S., Mechanical Engineering (Minor: Management)**  
-  New York University — *(May 2023)*  
+**Graduate Researcher — MetaMobility Lab, Carnegie Mellon University**  
+_Pittsburgh, PA · Oct 2024 – Present_  
+- Designed PCBs and secure cable systems for hip exoskeletons (no failures over 3+ months)  
+- Assisted in Mechanical design of V1 and V2 hip exoskeleton prototypes  
+- Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
+- Developing a **controller for sit-to-stand assistance** in knee exoskeletons  
 
 ---
 
@@ -36,7 +44,7 @@ I enjoy applying quantitative and engineering methods to solve real-world proble
 **Design and Structural Engineer Intern — Nanjing Encos Intelligent Technology Co., Ltd.**  
 _Nanjing, China · Sep 2023 – Aug 2024_  
 - Designed and assembled custom motors using **SolidWorks**, delivering reliable prototypes tailored to client requests  
-- Produced manufacturing drawings and coordinated directly with suppliers, reducing design-to-production cycle time  
+- Produced engineering drawings and coordinated directly with suppliers, reducing design-to-production cycle time  
 - Contributed to the design of **planetary reducer gearboxes**, gaining expertise in precision mechanical systems  
 - Calibrated and tuned motors using **VESC firmware**, ensuring stable operation across varying load conditions  
 
@@ -44,6 +52,18 @@ _Nanjing, China · Sep 2023 – Aug 2024_
   <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="350"/>
   <figcaption><em>Cross-section view of one of the customized motors</em></figcaption>
 </figure>
+
+---
+
+## Leadership  
+
+**Captain — NYU UltraViolet RoboMaster Team**  
+_New York, United States · Sep 2020 – Aug 2023_  
+- Led a **90+ member team** in the RoboMaster University League (3rd Place 2021; 5th Place 2022 & 2023)  
+- Oversaw designs, fabrication, and testing of multiple competition robots annually  
+- Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
+- Fabricated parts using **3D printing, CNC machining, laser cutting, and waterjet**  
+- Applied **agile and waterfall project management** techniques to manage development timelines  
 
 ---
 
@@ -70,14 +90,19 @@ _Sep 2022 – May 2023_
 
 ---
 
-## Leadership  
+## Education  
 
-**Captain — NYU UltraViolet RoboMaster Team**  
-_New York, United States · Sep 2020 – Aug 2023_  
-- Led a **90+ member team** to compete in the RoboMaster University League (3rd Place 2021, 5th Place 2022 & 2023)  
-- Oversaw design, fabrication, and testing of multiple competition robots each year  
-- Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
-- Fabricated parts with **3D printing, CNC machining, laser cutting, and waterjet**  
-- Applied **agile and waterfall project management** techniques to keep development on schedule  
+- **M.S., Mechanical Engineering**  
+  Carnegie Mellon University — *(Expected May 2026)*  
+
+- **B.S., Mechanical Engineering (Minor: Management)**  
+  New York University — *(May 2023)*  
+
+---
+
+## Honors & Awards  
+
+- Dean’s List, 2021–2023  
+- RoboMaster University League: 3rd Place (2021), 5th Place (2022 & 2023)  
 
 ---
