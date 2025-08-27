@@ -1,8 +1,6 @@
 # Yunliang Zhao  
 ### Mechanical Engineer | Robotics Enthusiast  
 
-[📄 Download My Resume](assets/Yunliang_Zhao_Resume.pdf)
-
 ---
 
 ## 📌 Navigation  
@@ -91,7 +89,7 @@ _New York, United States · Sep 2020 – Aug 2023_
 **Whiteboard Erasing Robot (WIPER)** — *Optimal Control & Reinforcement Learning (CMU)*  
 _Jan 2025 – May 2025_  
 - Implemented and compared **PID, TVLQR, and MPC** controllers to track planned trajectories
-- Used April Tags to assist coordination tracking
+- Utilized AprilTag technology to assist in position localization
 
 <figure>
   <img src="/assets/Wiper.png" alt="Wiper" width="350"/>
@@ -104,7 +102,7 @@ _Apr 2023 – May 2023_
 - Evaluated **resolving rate, impedance, and PD controllers** for performance trade-offs
 
 <figure>
-  <img src="/assets/Manipulation_Task.jpg" alt="Manipulation_Task" width="400"/>
+  <img src="/assets/Manipulation_Task.jpg" alt="Manipulation_Task" width="350"/>
   <figcaption><em>Manipulated Robot Arm in simulation</em></figcaption>
 </figure>
 
