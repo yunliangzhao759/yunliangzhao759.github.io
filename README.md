@@ -80,7 +80,7 @@ _New York, United States · Sep 2020 – Aug 2023_
 - Applied **agile and waterfall project management** techniques to manage development timelines
 
 <figure>
-  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster_Robots" width="700"/>
+  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster_Robots" width="900"/>
   <figcaption><em>Robots built within one year for the RoboMaster Competition</em></figcaption>
 </figure>
 
