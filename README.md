@@ -30,8 +30,8 @@ I enjoy applying **engineering and quantitative methods** to real-world problems
 ## Research Experience  
 **MetaMobility Lab — Carnegie Mellon University**  
 _Pittsburgh, PA · Oct 2024 – Present_  
-- PCB and cable design for hip exoskeletons (reliable >3 months)  
-- Mechanical design of V1 & V2 hip exoskeleton prototypes  
+- PCB and cable design for hip exoskeletons (no failures over 3+ months)  
+- Contributed to Mechanical design of V1 & V2 hip exoskeleton prototypes  
 - Teensy 4.1 programming for knee exoskeleton control  
 - Developing sit-to-stand assistance controller  
 
@@ -45,8 +45,8 @@ _Pittsburgh, PA · Oct 2024 – Present_
 **Design & Structural Engineering Intern — Encos Tech**  
 _Nanjing, China · Sep 2023 – Aug 2024_  
 - Designed and assembled custom motors  
-- Produced engineering drawings and supplier coordination  
-- Contributed to planetary gearbox design  
+- Produced engineering drawings and coordinated with suppliers
+- Designed custom planetary gearboxes
 - Motor calibration with VESC firmware  
 
 <figure>
@@ -59,7 +59,7 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 ## Leadership  
 **Captain — NYU UltraViolet RoboMaster Team**  
 _New York, USA · Sep 2020 – Aug 2023_  
-- Led 90+ members · 3rd Place (2021), 5th Place (2022 & 2023)  
+- Led 90+ members - achieved 3rd Place (2021), 5th Place (2022 & 2023)  
 - Directed annual robot design & fabrication  
 - Infantry robot structure design (SolidWorks, Ansys)  
 - Managed agile & waterfall project timelines  
