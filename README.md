@@ -37,10 +37,8 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
 - Developing a **controller for sit-to-stand assistance** in knee exoskeletons
 <figure>
-  <img src="/assets/Hip_exo.png" alt="Custom Motor" width="350"/>
-  # <figcaption><em>Cross-section view of one of the customized motors</em></figcaption>
+  <img src="/assets/Hip_Exo.png" alt="Custom Motor" width="350"/>
 </figure>
-
 
 ---
 
@@ -54,7 +52,7 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 - Calibrated and tuned motors using **VESC firmware**, ensuring stable operation across varying load conditions  
 
 <figure>
-  <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="350"/>
+  <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="300"/>
   <figcaption><em>Cross-section view of one of the customized motors</em></figcaption>
 </figure>
 
@@ -68,7 +66,12 @@ _New York, United States · Sep 2020 – Aug 2023_
 - Oversaw designs, fabrication, and testing of multiple competition robots annually  
 - Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
 - Fabricated parts using **3D printing, CNC machining, laser cutting, and waterjet**  
-- Applied **agile and waterfall project management** techniques to manage development timelines  
+- Applied **agile and waterfall project management** techniques to manage development timelines
+
+<figure>
+  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster_Robots" width="600"/>
+  <figcaption><em>Robots built within one year for the RoboMaster Competition</em></figcaption>
+</figure>
 
 ---
 
@@ -76,7 +79,8 @@ _New York, United States · Sep 2020 – Aug 2023_
 
 **Whiteboard Erasing Robot (WIPER)** — *Optimal Control & Reinforcement Learning (CMU)*  
 _Jan 2025 – May 2025_  
-- Implemented an **MPC-based controller** to track planned trajectories with ~80% accuracy  
+- Implemented and compared PID, TVLQR, and MPC controllers to track planned trajectories
+- 
 
 **Quadrotor Fault-Tolerant Control** — *Modern Control Theory (CMU)*  
 _Sep 2024 – Dec 2024_  
