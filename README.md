@@ -91,7 +91,7 @@ _New York, United States · Sep 2020 – Aug 2023_
 **Whiteboard Erasing Robot (WIPER)** — *Optimal Control & Reinforcement Learning (CMU)*  
 _Jan 2025 – May 2025_  
 - Implemented and compared **PID, TVLQR, and MPC** controllers to track planned trajectories
-- Used April Tags to assist localization
+- Used April Tags to assist coordination tracking
 
 <figure>
   <img src="/assets/Wiper.png" alt="Wiper" width="350"/>
