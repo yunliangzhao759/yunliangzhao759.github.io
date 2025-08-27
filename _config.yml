@@ -1,8 +1,6 @@
 title: Yunliang Zhao's Portfolio
 logo: /assets/Profile_Picture.jpg
-description: >
-  [📄 Download My Resume](/assets/Yunliang_Zhao_Resume.pdf)
-
+description: "<a href='/assets/Yunliang_Zhao_Resume.pdf' target='_blank' rel='noopener'>📄 Download My Resume</a>"
 show_downloads: false
 
 github:
