@@ -14,9 +14,9 @@ I enjoy applying **engineering and quantitative methods** to real-world problems
 ---
 
 ## Skills  
-- **Programming:** Python, MATLAB/Simulink, SQL  
-- **CAD/Simulation:** SolidWorks, Fusion360, Ansys  
-- **Hardware:** PCB design, soldering, 3D printing, CNC machining  
+- **Programming:** Python, C++, Arduino C, MATLAB/Simulink, SQL  
+- **CAD/Simulation:** SolidWorks, Fusion360, Onshape, Ansys  
+- **Hardware:** PCB design, soldering, 3D printing, Manual Machining, CNC Machining  
 - **Languages:** English, Mandarin  
 
 ---
@@ -30,10 +30,10 @@ I enjoy applying **engineering and quantitative methods** to real-world problems
 ## Research Experience  
 **MetaMobility Lab — Carnegie Mellon University**  
 _Pittsburgh, PA · Oct 2024 – Present_  
-- PCB and cable design for hip exoskeletons (no failures over 3+ months)  
+- PCB and electrical system design for hip exoskeletons  
 - Contributed to Mechanical design of V1 & V2 hip exoskeleton prototypes  
 - Teensy 4.1 programming for knee exoskeleton control  
-- Developing sit-to-stand assistance controller  
+- Developing sit-to-stand assistance controller for knee exoskeleton
 
 <figure>
   <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
@@ -42,12 +42,12 @@ _Pittsburgh, PA · Oct 2024 – Present_
 ---
 
 ## Work Experience  
-**Design & Structural Engineering Intern — Encos Tech**  
+**Design & Structural Engineering Intern — Nanjing Encos**  
 _Nanjing, China · Sep 2023 – Aug 2024_  
-- Designed and assembled custom motors  
+- Designed and assembled custom motors using **SolidWorks**  
 - Produced engineering drawings and coordinated with suppliers
-- Designed custom planetary gearboxes
-- Motor calibration with VESC firmware  
+- Designed 5+ **planetary reducer gearboxes**
+- Calibrated and tuned motors with **VESC firmware** 
 
 <figure>
   <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="300"/>
@@ -59,10 +59,11 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 ## Leadership  
 **Captain — NYU UltraViolet RoboMaster Team**  
 _New York, USA · Sep 2020 – Aug 2023_  
-- Led 90+ members - achieved 3rd Place (2021), 5th Place (2022 & 2023)  
-- Directed annual robot design & fabrication  
-- Infantry robot structure design (SolidWorks, Ansys)  
-- Managed agile & waterfall project timelines  
+- Led a **90+ member team**, achieved 3rd Place (2021), 5th Place (2022 & 2023)
+- Oversaw the design, fabrication, and testing of multiple robots annually  
+- Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
+- Fabricated components with **3D printing, CNC machining, laser cutting, and waterjet**  
+- Applied **agile and waterfall project management** to ensure on-time development  
 
 <figure>
   <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster Robots" width="900"/>
@@ -74,18 +75,16 @@ _New York, USA · Sep 2020 – Aug 2023_
 ## Projects  
 
 **Whiteboard Erasing Robot (WIPER)** — CMU  
-_Jan 2025 – May 2025_  
-- Compared PID, TVLQR, MPC controllers  
-- AprilTag localization for trajectory tracking  
+- Implemented and compared **PID, TVLQR, and MPC** controllers for trajectory tracking  
+- Utilized **AprilTag technology** for position localization  
 
 <figure>
   <img src="/assets/Wiper.png" alt="Wiper" width="350"/>
 </figure>
 
-**Robot Manipulation & Locomotion** — CMU  
-_Apr 2023 – May 2023_  
-- Pick-and-place block tasks  
-- Tested resolved-rate, impedance, PD controllers  
+**Robot Manipulation & Locomotion** — NYU
+- Developed controllers for a robot to pick and place blocks into a bowl  
+- Evaluated the performance of **resolved-rate, impedance, and PD controllers**
 
 <figure>
   <img src="/assets/Manipulation_Task.jpg" alt="Manipulation Task" width="350"/>
