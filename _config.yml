@@ -7,22 +7,15 @@ github:
   is_user_page: false
   is_project_page: false
 
-navigation:
-  - title: About
-    url: /
-  - title: Skills
-    url: /skills
-  - title: Research
-    url: /research
-  - title: Work
-    url: /work
-  - title: Leadership
-    url: /leadership
-  - title: Projects
-    url: /projects
-  - title: Education
-    url: /education
-  - title: Honors
-    url: /honors
+<nav class="inline-nav">
+  <a href="#about-me">About</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#research-experience">Research</a> ·
+  <a href="#work-experience">Work</a> ·
+  <a href="#leadership">Leadership</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#honors--awards">Honors</a>
+</nav>
 
 theme: jekyll-theme-minimal
