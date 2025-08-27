@@ -104,7 +104,7 @@ _Apr 2023 – May 2023_
 - Evaluated **resolving rate, impedance, and PD controllers** for performance trade-offs
 
 <figure>
-  <img src="/assets/Manipulation_Task.png" alt="Manipulation_Task" width="400"/>
+  <img src="/assets/Manipulation_Task.jpg" alt="Manipulation_Task" width="400"/>
   <figcaption><em>Manipulated Robot Arm in simulation</em></figcaption>
 </figure>
 
