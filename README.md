@@ -4,20 +4,9 @@
 ---
 
 ## 📌 Navigation  
-[About](#about-me) · [Skills](#skills) · [Research](#research-experience) · [Work](#work-experience) · [Leadership](#leadership) · [Projects](#projects) · [Education](#education) · [Honors](#honors--awards)  
+[About](#about-me) · [Skills](#skills) · [Education](#education) · [Research](#research-experience) · [Work](#work-experience) · [Leadership](#leadership) · [Projects](#projects) · [Honors](#honors--awards)  
 
 ---
-
-<nav class="inline-nav">
-  <a href="#about-me">About</a> ·
-  <a href="#skills">Skills</a> ·
-  <a href="#research-experience">Research</a> ·
-  <a href="#work-experience">Work</a> ·
-  <a href="#leadership">Leadership</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#education">Education</a> ·
-  <a href="#honors--awards">Honors</a>
-</nav>
 
 ## About Me  
 I am a Master’s student in Mechanical Engineering at Carnegie Mellon University, passionate about robotics, control systems, and mechanical design.  
@@ -31,12 +20,10 @@ I enjoy applying **quantitative and engineering methods** to solve real-world pr
 ## Skills  
 - **Programming:** Python, MATLAB/Simulink, SQL  
 - **CAD & Simulation:** SolidWorks, Fusion360, Ansys  
-- **Controls:** MPC, LQR, MRAC, PD, Impedance Control  
 - **Hardware & Fabrication:** PCB design, soldering, 3D printing, CNC machining  
 - **Languages:** English, Mandarin  
 
 ---
-
 
 ## Education  
 
@@ -56,6 +43,7 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Assisted in Mechanical design of V1 and V2 hip exoskeleton prototypes  
 - Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
 - Developing a **controller for sit-to-stand assistance** in knee exoskeletons
+
 <figure>
   <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
 </figure>
@@ -117,10 +105,10 @@ _Apr 2023 – May 2023_
   <figcaption><em>Manipulated Robot Arm in simulation</em></figcaption>
 </figure>
 
+---
 
 ## Honors & Awards  
 
 - Dean’s List, 2021–2023  
 - RoboMaster University League: 3rd Place (2021), 5th Place (2022 & 2023)  
 
----
