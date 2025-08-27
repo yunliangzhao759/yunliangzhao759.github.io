@@ -1,10 +1,12 @@
-# add the following to _config.yml file
 title: Yunliang Zhao's Portfolio
 logo: /assets/Profile_Picture.jpg
-#description: text below image
+description: >
+  [📄 Download My Resume](/assets/Yunliang_Zhao_Resume.pdf)
+
 show_downloads: false
+
 github:
   is_user_page: false
   is_project_page: false
-[📄 Download My Resume](assets/Yunliang_Zhao_Resume.pdf)
+
 theme: jekyll-theme-minimal
