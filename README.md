@@ -36,7 +36,10 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Assisted in Mechanical design of V1 and V2 hip exoskeleton prototypes  
 - Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
 - Developing a **controller for sit-to-stand assistance** in knee exoskeletons
-- 
+<figure>
+  <img src="/assets/Hip_exo.png" alt="Custom Motor" width="350"/>
+  # <figcaption><em>Cross-section view of one of the customized motors</em></figcaption>
+</figure>
 
 
 ---
