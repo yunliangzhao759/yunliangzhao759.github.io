@@ -28,6 +28,17 @@ I enjoy applying **quantitative and engineering methods** to solve real-world pr
 
 ---
 
+
+## Education  
+
+- **M.S., Mechanical Engineering**  
+  Carnegie Mellon University — *(Expected May 2026)*  
+
+- **B.S., Mechanical Engineering (Minor: Management)**  
+  New York University — *(May 2023)*  
+
+---
+
 ## Research Experience  
 
 **Graduate Researcher — MetaMobility Lab, Carnegie Mellon University**  
@@ -37,7 +48,7 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
 - Developing a **controller for sit-to-stand assistance** in knee exoskeletons
 <figure>
-  <img src="/assets/Hip_Exo.png" alt="Custom Motor" width="350"/>
+  <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
 </figure>
 
 ---
@@ -69,7 +80,7 @@ _New York, United States · Sep 2020 – Aug 2023_
 - Applied **agile and waterfall project management** techniques to manage development timelines
 
 <figure>
-  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster_Robots" width="600"/>
+  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster_Robots" width="700"/>
   <figcaption><em>Robots built within one year for the RoboMaster Competition</em></figcaption>
 </figure>
 
@@ -79,35 +90,24 @@ _New York, United States · Sep 2020 – Aug 2023_
 
 **Whiteboard Erasing Robot (WIPER)** — *Optimal Control & Reinforcement Learning (CMU)*  
 _Jan 2025 – May 2025_  
-- Implemented and compared PID, TVLQR, and MPC controllers to track planned trajectories
-- 
+- Implemented and compared **PID, TVLQR, and MPC** controllers to track planned trajectories
+- Used April Tags to assist localization
 
-**Quadrotor Fault-Tolerant Control** — *Modern Control Theory (CMU)*  
-_Sep 2024 – Dec 2024_  
-- Developed **LQR and MRAC controllers** in Python to stabilize a quadrotor after 50% motor power loss  
+<figure>
+  <img src="/assets/Wiper.png" alt="Wiper" width="350"/>
+  <figcaption><em>Magnetic Whiteboard Erasing Robot</em></figcaption>
+</figure>
 
 **Robot Manipulation & Locomotion** — *CMU*  
 _Apr 2023 – May 2023_  
 - Implemented controllers enabling a robot to pick and place two blocks into a bowl  
-- Evaluated **resolving rate, impedance, and PD controllers** for performance trade-offs  
+- Evaluated **resolving rate, impedance, and PD controllers** for performance trade-offs
 
-**Warehouse Robot** — *Capstone Project (NYU)*  
-_Sep 2022 – May 2023_  
-- Led a team of 4 to design a warehouse robot capable of lifting **10 lbs to 20 ft**, integrated with an emergency stop system (<2s response)  
-- Performed CAD design and **FEA analysis** (deflection, modal, and stress) in SolidWorks and Ansys  
-- Programmed robot motion and remote control in Python  
+<figure>
+  <img src="/assets/Manipulation Task.png" alt="RoboMaster_Robots" width="400"/>
+  <figcaption><em>Robots built within one year for the RoboMaster Competition</em></figcaption>
+</figure>
 
----
-
-## Education  
-
-- **M.S., Mechanical Engineering**  
-  Carnegie Mellon University — *(Expected May 2026)*  
-
-- **B.S., Mechanical Engineering (Minor: Management)**  
-  New York University — *(May 2023)*  
-
----
 
 ## Honors & Awards  
 
