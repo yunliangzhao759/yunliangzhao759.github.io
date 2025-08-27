@@ -8,6 +8,17 @@
 
 ---
 
+<nav class="inline-nav">
+  <a href="#about-me">About</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#research-experience">Research</a> ·
+  <a href="#work-experience">Work</a> ·
+  <a href="#leadership">Leadership</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#honors--awards">Honors</a>
+</nav>
+
 ## About Me  
 I am a Master’s student in Mechanical Engineering at Carnegie Mellon University, passionate about robotics, control systems, and mechanical design.  
 
