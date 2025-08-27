@@ -1,5 +1,5 @@
 # Yunliang Zhao  
-### Mechanical Engineer | Robotics Enthusiast  
+### Mechanical Engineer · Robotics Enthusiast  
 
 ---
 
@@ -11,9 +11,9 @@
 ## About Me  
 I am a Master’s student in Mechanical Engineering at Carnegie Mellon University, passionate about robotics, control systems, and mechanical design.  
 
-I have hands-on experience in **robot design, control, and fabrication** through my research at CMU’s MetaMobility Lab, an engineering internship in custom motor development, and leadership in the RoboMaster robotics competition.  
+Through my research at CMU’s MetaMobility Lab, an engineering internship in custom motor development, and leadership in the RoboMaster robotics competition, I have gained hands-on experience in **robot design, control, and fabrication**.  
 
-I enjoy applying **quantitative and engineering methods** to solve real-world problems and am seeking opportunities in **Mechanical Engineering, Robotics, and related industries**.  
+I enjoy applying **engineering and quantitative methods** to real-world problems and am seeking opportunities in **mechanical engineering, robotics, and related industries**.  
 
 ---
 
@@ -27,10 +27,10 @@ I enjoy applying **quantitative and engineering methods** to solve real-world pr
 
 ## Education  
 
-- **M.S., Mechanical Engineering**  
+- **M.S. in Mechanical Engineering**  
   Carnegie Mellon University — *(Expected May 2026)*  
 
-- **B.S., Mechanical Engineering (Minor: Management)**  
+- **B.S. in Mechanical Engineering (Minor: Management)**  
   New York University — *(May 2023)*  
 
 ---
@@ -39,10 +39,10 @@ I enjoy applying **quantitative and engineering methods** to solve real-world pr
 
 **Graduate Researcher — MetaMobility Lab, Carnegie Mellon University**  
 _Pittsburgh, PA · Oct 2024 – Present_  
-- Designed PCBs and secure cable systems for hip exoskeletons (no failures over 3+ months)  
-- Assisted in Mechanical design of V1 and V2 hip exoskeleton prototypes  
-- Programmed **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
-- Developing a **controller for sit-to-stand assistance** in knee exoskeletons
+- Designed PCBs and secure cabling systems for hip exoskeletons, achieving zero failures over 3+ months  
+- Contributed to the mechanical design of first- and second-generation hip exoskeleton prototypes  
+- Programmed a **Teensy 4.1** microcontroller for low-level control of a knee exoskeleton  
+- Developing a **controller for sit-to-stand assistance** in knee exoskeletons  
 
 <figure>
   <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
@@ -52,16 +52,16 @@ _Pittsburgh, PA · Oct 2024 – Present_
 
 ## Work Experience  
 
-**Design and Structural Engineer Intern — Nanjing Encos Intelligent Technology Co., Ltd.**  
+**Design & Structural Engineering Intern — Nanjing Encos Intelligent Technology Co., Ltd.**  
 _Nanjing, China · Sep 2023 – Aug 2024_  
-- Designed and assembled custom motors using **SolidWorks**, delivering reliable prototypes tailored to client requests  
-- Produced engineering drawings and coordinated directly with suppliers, reducing design-to-production cycle time  
-- Contributed to the design of **planetary reducer gearboxes**, gaining expertise in precision mechanical systems  
-- Calibrated and tuned motors using **VESC firmware**, ensuring stable operation across varying load conditions  
+- Designed and assembled custom motors using **SolidWorks**, delivering reliable, client-specific prototypes  
+- Produced engineering drawings and coordinated with suppliers, reducing design-to-production cycle time  
+- Assisted in the design of **planetary reducer gearboxes**, gaining experience in precision mechanical systems  
+- Calibrated and tuned motors with **VESC firmware**, ensuring stable operation under varying loads  
 
 <figure>
   <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="300"/>
-  <figcaption><em>Cross-section view of one of the customized motors</em></figcaption>
+  <figcaption><em>Cross-section of a customized motor</em></figcaption>
 </figure>
 
 ---
@@ -69,16 +69,16 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 ## Leadership  
 
 **Captain — NYU UltraViolet RoboMaster Team**  
-_New York, United States · Sep 2020 – Aug 2023_  
+_New York, USA · Sep 2020 – Aug 2023_  
 - Led a **90+ member team** in the RoboMaster University League (3rd Place 2021; 5th Place 2022 & 2023)  
-- Oversaw designs, fabrication, and testing of multiple competition robots annually  
+- Oversaw the design, fabrication, and testing of multiple robots annually  
 - Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
-- Fabricated parts using **3D printing, CNC machining, laser cutting, and waterjet**  
-- Applied **agile and waterfall project management** techniques to manage development timelines
+- Fabricated components with **3D printing, CNC machining, laser cutting, and waterjet**  
+- Applied **agile and waterfall project management** to ensure on-time development  
 
 <figure>
-  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster_Robots" width="900"/>
-  <figcaption><em>Robots built within one year for the RoboMaster Competition</em></figcaption>
+  <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster Robots" width="900"/>
+  <figcaption><em>Robots designed and built for the RoboMaster Competition</em></figcaption>
 </figure>
 
 ---
@@ -87,8 +87,8 @@ _New York, United States · Sep 2020 – Aug 2023_
 
 **Whiteboard Erasing Robot (WIPER)** — *Optimal Control & Reinforcement Learning (CMU)*  
 _Jan 2025 – May 2025_  
-- Implemented and compared **PID, TVLQR, and MPC** controllers to track planned trajectories
-- Utilized AprilTag technology to assist in position localization
+- Implemented and compared **PID, TVLQR, and MPC** controllers for trajectory tracking  
+- Utilized **AprilTag technology** for position localization  
 
 <figure>
   <img src="/assets/Wiper.png" alt="Wiper" width="350"/>
@@ -97,12 +97,12 @@ _Jan 2025 – May 2025_
 
 **Robot Manipulation & Locomotion** — *CMU*  
 _Apr 2023 – May 2023_  
-- Implemented controllers enabling a robot to pick and place two blocks into a bowl  
-- Evaluated **resolving rate, impedance, and PD controllers** for performance trade-offs
+- Developed controllers for a robot to pick and place blocks into a bowl  
+- Evaluated the performance of **resolved-rate, impedance, and PD controllers**  
 
 <figure>
-  <img src="/assets/Manipulation_Task.jpg" alt="Manipulation_Task" width="350"/>
-  <figcaption><em>Manipulated Robot Arm in simulation</em></figcaption>
+  <img src="/assets/Manipulation_Task.jpg" alt="Manipulation Task" width="350"/>
+  <figcaption><em>Simulated robotic manipulation task</em></figcaption>
 </figure>
 
 ---
@@ -110,5 +110,4 @@ _Apr 2023 – May 2023_
 ## Honors & Awards  
 
 - Dean’s List, 2021–2023  
-- RoboMaster University League: 3rd Place (2021), 5th Place (2022 & 2023)  
-
+- RoboMaster University League — 3rd Place (2021), 5th Place (2022 & 2023)  
