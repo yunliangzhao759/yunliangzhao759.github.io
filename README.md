@@ -45,10 +45,11 @@ _Pittsburgh, PA · Oct 2024 – Present_
 **[Design & Structural Engineering Intern — Nanjing Encos](/project/Encos)**
 
 _Nanjing, China · Sep 2023 – Aug 2024_  
-- Designed and assembled custom motors using **SolidWorks**  
-- Produced engineering drawings and coordinated with suppliers
-- Designed 5+ **planetary reducer gearboxes**
-- Calibrated and tuned motors with **VESC firmware** 
+- Designed and assembled custom brushless motors using **SolidWorks**
+- Produced engineering drawings and coordinated DFM with suppliers
+- Designed **5+ planetary reducer gearboxes** with improved efficiency
+- Tuned motors with **VESC firmware** and validated performance through load testing
+- Improved torque transmission and reduced backlash through iterative redesigns
 
 <figure>
   <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="300"/>
