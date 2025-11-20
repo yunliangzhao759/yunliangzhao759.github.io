@@ -74,3 +74,7 @@ I contributed across four years—first as **Mechanical Lead**, then as **Team C
 - Oversaw multi-robot architecture, testing strategy, and design reviews  
 - Managed 90+ members, onboarding, scheduling, and competition execution  
 - Ensured cohesive integration across all mechanical and electrical subsystems
+
+---
+
+[← Back to Home](/)
