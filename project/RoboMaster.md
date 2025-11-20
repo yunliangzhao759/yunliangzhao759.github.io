@@ -13,7 +13,7 @@ I contributed across four years—first as **Mechanical Lead**, then as **Team C
 
 ## 🖼️ Featured Robots
 
-![RoboMaster Robots](assets/RoboMaster_Robots.png)
+![RoboMaster Robots](../assets/RoboMaster_Robots.png)
 
 ---
 
