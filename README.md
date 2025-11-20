@@ -59,11 +59,12 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 ## Leadership  
 **Captain — NYU UltraViolet RoboMaster Team**  
 _New York, USA · Sep 2020 – Aug 2023_  
-- Led a **90+ member team**, achieved 3rd Place (2021), 5th Place (2022 & 2023)
-- Oversaw the design, fabrication, and testing of multiple robots annually  
-- Designed the mechanical structure of the infantry robot using **SolidWorks, Onshape, and Ansys**  
-- Fabricated components with **3D printing, CNC machining, laser cutting, and waterjet**  
-- Applied **agile and waterfall project management** to ensure on-time development  
+- Led a **90+ member engineering team** across mechanical, electrical, and software divisions
+- Designed major mechanical subsystems using **SolidWorks, Onshape, and Ansys**
+- Oversaw fabrication through **3D printing, CNC machining, laser cutting, and waterjet**
+- Directed a 12-person mechanical team and managed full robot development cycles
+- Improved robot durability, weight, and maintainability through iterative redesigns
+- Achieved **3rd Place (2021) and 5th Place (2022 & 2023)** in the North America regionals 
 
 <figure>
   <img src="/assets/RoboMaster_Robots.png" alt="RoboMaster Robots" width="900"/>
