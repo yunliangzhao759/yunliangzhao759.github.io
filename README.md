@@ -42,7 +42,8 @@ _Pittsburgh, PA · Oct 2024 – Present_
 ---
 
 ## Work Experience  
-**Design & Structural Engineering Intern — Nanjing Encos**  
+**[Design & Structural Engineering Intern — Nanjing Encos](/project/Encos)**
+
 _Nanjing, China · Sep 2023 – Aug 2024_  
 - Designed and assembled custom motors using **SolidWorks**  
 - Produced engineering drawings and coordinated with suppliers
