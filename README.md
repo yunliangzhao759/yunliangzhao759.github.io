@@ -57,7 +57,8 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 ---
 
 ## Leadership  
-**Captain — NYU UltraViolet RoboMaster Team**  
+**[Captain — NYU UltraViolet RoboMaster Team](/projects/RoboMaster)** 
+
 _New York, USA · Sep 2020 – Aug 2023_  
 - Led a **90+ member engineering team** across mechanical, electrical, and software divisions
 - Designed major mechanical subsystems using **SolidWorks, Onshape, and Ansys**
