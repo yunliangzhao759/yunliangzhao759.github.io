@@ -57,7 +57,7 @@ _Nanjing, China · Sep 2023 – Aug 2024_
 ---
 
 ## Leadership  
-**[Captain — NYU UltraViolet RoboMaster Team](/projects/RoboMaster)** 
+**[Captain — NYU UltraViolet RoboMaster Team](/project/RoboMaster)** 
 
 _New York, USA · Sep 2020 – Aug 2023_  
 - Led a **90+ member engineering team** across mechanical, electrical, and software divisions
