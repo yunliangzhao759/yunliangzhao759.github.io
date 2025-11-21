@@ -31,10 +31,11 @@ I enjoy applying **engineering and quantitative methods** to real-world problems
 **[MetaMobility Lab — Carnegie Mellon University](/project/MeMo)**
 
 _Pittsburgh, PA · Oct 2024 – Present_  
-- PCB and electrical system design for hip exoskeletons  
-- Contributed to Mechanical design of V1 & V2 hip exoskeleton prototypes  
-- Teensy 4.1 programming for knee exoskeleton control  
-- Developing sit-to-stand assistance controller for knee exoskeleton
+- Designed PCB and electrical systems for hip exoskeleton prototypes  
+- Contributed to the mechanical design of **V1 & V2 hip exoskeletons**  
+- Programmed **Teensy 4.1** for knee exoskeleton motor control  
+- Developed a **sit-to-stand assistance controller** for knee exoskeleton  
+- Implemented a **human-in-the-loop CMA-ES optimization pipeline** for adaptive assistance
 
 <figure>
   <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
