@@ -28,7 +28,8 @@ I enjoy applying **engineering and quantitative methods** to real-world problems
 ---
 
 ## Research Experience  
-**MetaMobility Lab — Carnegie Mellon University**  
+**[MetaMobility Lab — Carnegie Mellon University](/project/MeMo)**
+
 _Pittsburgh, PA · Oct 2024 – Present_  
 - PCB and electrical system design for hip exoskeletons  
 - Contributed to Mechanical design of V1 & V2 hip exoskeleton prototypes  
