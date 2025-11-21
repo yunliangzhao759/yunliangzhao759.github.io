@@ -79,10 +79,11 @@ _New York, USA · Sep 2020 – Aug 2023_
 ---
 
 ## Projects  
-
-**Whiteboard Erasing Robot (WIPER)** — CMU  
+**[Whiteboard Erasing Robot (WIPER) — CMU](/project/WIPER)** 
 - Implemented and compared **PID, TVLQR, and MPC** controllers for trajectory tracking  
-- Utilized **AprilTag technology** for position localization  
+- Built real-time localization using **AprilTag-based pose estimation**  
+- Tuned controller parameters and evaluated tracking performance across test paths  
+- Integrated sensing, control, and actuation into a fully autonomous wall-climbing robot 
 
 <figure>
   <img src="/assets/Wiper.png" alt="Wiper" width="350"/>
