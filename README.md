@@ -91,7 +91,8 @@ _New York, USA · Sep 2020 – Aug 2023_
 
 **Robot Manipulation & Locomotion** — NYU
 - Developed controllers for a robot to pick and place blocks into a bowl  
-- Evaluated the performance of **resolved-rate, impedance, and PD controllers**
+- Implemented and evaluated **resolved-rate**, **impedance**, and **PD** controllers for manipulation tasks  
+- Analyzed controller performance based on trajectory accuracy, stability, and disturbance response  
 
 <figure>
   <img src="/assets/Manipulation_Task.jpg" alt="Manipulation Task" width="350"/>
