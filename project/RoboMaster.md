@@ -3,77 +3,94 @@
 
 ---
 
-## 🚀 Overview
-RoboMaster is an international engineering competition centered on **hands-on robot design**, rapid prototyping, and full electromechanical system integration.  
-I contributed across four years—first as **Mechanical Lead**, then as **Team Captain** managing a **90+ member engineering team**.
+# 🧭 Introduction
 
-> **Goal:** Build robust, high-performance mobile robots with precise motion, durable structures, and fast maintainability.
+Engineering education often lacks large-scale, hands-on system building. RoboMaster fills this gap by providing a high-pressure environment where students must design, fabricate, and integrate **full electromechanical robotic systems** that must perform reliably under real-world constraints.
 
----
-
-## 🖼️ Featured Robots
-
-![RoboMaster Robots](../assets/RoboMaster_Robots.png)
+Over four years, I contributed as both **Mechanical Lead** and later **Team Captain** of a **90+ member engineering team**.  
+**Objective:** Build robust, high-performance mobile robots with precise motion, durable structures, and fast maintainability while coordinating multi-disciplinary engineering teams.
 
 ---
 
-## 🔧 Engineering Highlights
+# 🛠️ Design / Methods
 
-### **Mechanical Design**
-- CAD in **SolidWorks**, **Onshape**
-- Structural FEA and weight optimization (Ansys)
-- Designed drivetrain, chassis, suspension, and gimbal interfaces
-- Created modular, interchangeable subsystems for rapid iteration
-
-### **Prototyping & Fabrication**
-- CNC machining, laser cutting, waterjet cutting, and 3D printing
-- Produced manufacturing drawings, GD&T, and assembly documentation
-- Implemented subsystem-level QA and fit checks
-
-### **Team & Technical Leadership**
-- Led **12-person mechanical team** (2020–2021)
-- Captained the **full 90+ member team** (2021–2023)
-- Organized design reviews, weekly build sprints, and integration testing
-- Coordinated mechanical–electrical–software interfaces across all robots
-- Managed season planning, budgeting, training, and competition logistics
+## 🔧 Mechanical Design
+- CAD in **SolidWorks** and **Onshape**  
+- Structural FEA and lightweighting (Ansys)  
+- Designed drivetrain, chassis, suspension, and gimbal interfaces  
+- Created modular, interchangeable subsystems for rapid iteration and quick repairs  
+- Developed standardized mounting patterns & interface geometry for compatibility across robot versions  
 
 ---
 
-## 🏆 Results & Impact
-
-### **Competition Performance**
-- **3rd Place — 2021 North America Regionals**
-- **5th Place — 2022 & 2023 North America Regionals**
-
-### **Engineering Outcomes**
-- Increased drivetrain durability and motion stability  
-- Reduced mechanical failure rates with new chassis & suspension designs  
-- Improved maintainability and swap speed through modular redesign  
-- Enhanced actuation precision and robot responsiveness
+## 🏗️ Prototyping & Fabrication
+- CNC machining, 3D printing, laser cutting, and waterjet manufacturing  
+- Produced detailed **manufacturing drawings** and GD&T specifications  
+- Led assembly documentation and subsystem-level QA  
+- Performed fit checks, tolerance verification, and iterative redesigns for reliability  
 
 ---
 
-## 💡 Key Lessons
-- Modular layouts significantly improve testing and serviceability  
-- Strength–weight tradeoffs dictate long-term performance  
-- Cross-team communication is essential for electromechanical systems  
-- Iteration speed is more valuable than isolated subsystem optimization  
-- Effective quick-fix strategies are critical during competition: identifying failure points fast, making temporary but reliable repairs, and prioritizing fixes that restore core functionality under time pressure
+## 👥 Team & Technical Leadership
+- Managed **12-person mechanical team** (2020–2021)  
+- Captained the **entire 90+ member team** (2021–2023), coordinating ME/EE/CS  
+- Organized weekly design reviews, integration tests, and build sprints  
+- Oversaw robot-level architecture, testing pipelines, and season planning  
+- Coordinated electrical–mechanical–software interfaces to ensure system consistency  
+- Led onboarding, training, budgeting, and competition logistics  
 
 ---
 
-## 👤 My Roles
+# 📈 Evaluation / Results
+
+## 🏆 Competition Performance
+- **3rd Place — 2021 North America Regionals**  
+- **5th Place — 2022 North America Regionals**  
+- **5th Place — 2023 North America Regionals**
+
+---
+
+## 🔍 Engineering Effectiveness
+- **Increased drivetrain durability** through redesigned chassis geometry  
+- **Reduced mechanical failure rates** by reinforcing high-stress interfaces  
+- **Improved maintainability** with modular subsystem layouts  
+- **Enhanced actuation precision** enabling smoother control and higher responsiveness  
+- **Faster quick-fix capability during competitions**, identifying and repairing failures under extreme time constraints  
+
+---
+
+# 🧾 Conclusion
+
+Through four years on RoboMaster, I gained extensive experience in **mechanical design**, **rapid prototyping**, **failure analysis**, and **multi-disciplinary team leadership**.  
+The team's sustained competitive performance reflected the impact of reliable mechanical systems, structured integration processes, and fast iteration strategies that balanced durability with lightweight performance.
+
+This project strengthened the exact skillset sought by robotics employers: **mechatronics integration**, **CAD & structural analysis**, **hands-on fabrication**, **testing workflows**, and **cross-team collaboration**.
+
+---
+
+# 👤 My Role
 
 ### **Mechanical Lead (2020–2021)**
 - Designed and fabricated drivetrain, chassis, and gimbal components  
-- Established CAD conventions, machining workflows, and documentation standards  
-- Led subsystem integration and prototype validation  
+- Established standardized CAD workflows and machining documentation  
+- Performed subsystem integration and prototype validation  
 
 ### **Team Captain (2021–2023)**
-- Directed ME/EE/CS teams and overall robot development  
-- Oversaw multi-robot architecture, testing strategy, and design reviews  
-- Managed 90+ members, onboarding, scheduling, and competition execution  
-- Ensured cohesive integration across all mechanical and electrical subsystems
+- Directed ME/EE/CS teams through robot design, testing, and competition  
+- Oversaw multi-robot architecture, design reviews, and integration strategy  
+- Managed 90+ members and coordinated season planning and logistics  
+- Ensured cohesive mechanical–electrical–software system performance  
+
+---
+
+# 🧩 Skills Demonstrated
+- Mechanical design (SolidWorks, Onshape, Ansys)  
+- Electromechanical integration  
+- CNC machining, 3D printing, manufacturing workflows  
+- Structural analysis and reliability engineering  
+- Leadership of large engineering teams  
+- Failure analysis + rapid repair strategies  
+- Testing, validation, and iterative prototyping  
 
 ---
 
