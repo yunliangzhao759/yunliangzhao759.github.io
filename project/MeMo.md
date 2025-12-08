@@ -3,121 +3,120 @@
 
 ---
 
-## 🧭 Overview
-At CMU’s **MetaMobility Lab**, I work on the hardware, control, and optimization pipeline of **lower-limb exoskeletons**.  
-My research spans **PCB/electrical design**, **embedded motor control**, **mechanical prototyping**, and the development of a **human-in-the-loop CMA-ES optimization system** for adaptive assistance.
+# 🧭 Introduction
 
-> **Goal:** Build lightweight, reliable, and personalized exoskeleton systems that assist everyday motions such as standing, sitting, lifting, and walking.
+Lower-limb exoskeletons have significant **social value** in rehabilitation, workplace injury prevention, and mobility assistance for individuals with reduced strength. Improving comfort, transparency, and reliability directly affects how well users adopt wearable robotics in everyday life.
 
----
-
-## 🖼️ Featured Hardware
-
-<figure>
-  <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
-</figure>
+This project focuses on developing the **hardware, control systems, and human-in-the-loop optimization** required for a next-generation hip and knee exoskeleton platform at CMU’s MetaMobility Lab.  
+**Objective:** Build lightweight, reliable, and personalized exoskeleton systems that assist common motions such as standing, sitting, lifting, and walking.
 
 ---
 
-## ⚙️ Engineering Highlights
+# 🖼️ Featured Hardware
 
-### **Electrical & PCB Design**
-- Designed custom PCBs for sensing, power routing, and motor-driver interfaces  
-- Integrated IMUs, encoders, and force/torque sensors into compact wearable assemblies  
-- Debugged grounding, EMI, and communication noise affecting real-time control loops  
-- Developed electrical packaging and wiring harnesses for hip & knee exoskeleton testing  
+<img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
 
 ---
 
-## 📡 Custom 4-Layer Power & Signal PCB
-Designed a compact **4-layer PCB** to supply high-current motor power and route all sensing/control signals cleanly between the exoskeleton hardware and the Jetson.
+# 🛠️ Design / Methods
 
-**Contributions**
-- 4-layer stack with **dedicated power & ground planes** for noise reduction  
-- Wide high-current traces with **solder-mask relief** for motor supply lines  
-- Routed **Jetson GPIO, IMU lines, encoders, and motor-driver interfaces**  
-- Added essential protection: **decoupling**, TVS diodes, and safe power distribution  
-- Included test points and optimized connector layout for fast debugging and assembly  
+## ⚡ Electrical & PCB Design
 
-**Impact**
-- Reduced wiring complexity and electrical failure points  
-- Lower sensor noise → more stable torque & IMU feedback  
-- Cleaner integration between **Jetson, sensors, and motor drivers**
+I designed custom electrical systems that support sensing, motor control, and data acquisition for the hip and knee exoskeleton prototypes.
 
----
+### **Advanced 4-Layer Power & Signal PCB**
+- 4-layer stack with **dedicated power/ground planes** for noise reduction  
+- High-current motor supply lines with **wide traces + solder-mask relief**  
+- Routing for **Jetson GPIO, IMU signals, encoders, and motor drivers**  
+- Added surge protection (TVS), decoupling, and robust connector layout  
+- Integrated test points for fast debugging and version-controlled updates
 
-### **Mechanical Contributions**
-- Contributed to mechanical design of **V1 & V2 hip exoskeleton prototypes**  
-- Modeled joint components, wearable frames, and structural housings  
-- Conducted fit checks and built complete wearable assemblies  
-- Supported redesigns for improved comfort, durability, and load consistency  
+**Impact:** Reduced wiring complexity, lower sensor noise, and more stable real-time control loops.
 
 ---
 
-### **Embedded Systems & Real-Time Control**
-- Programmed **Teensy 4.1** firmware for knee exoskeleton actuation  
-- Implemented sensor drivers, filtering, calibration, and low-latency data paths  
-- Built torque assistance controllers for sit-to-stand and multi-phase motions  
-- Developed logging & communication infrastructure for real-time experiments  
+## 🧩 Mechanical System Contributions
+- Modeled and refined **V1 & V2 hip exoskeleton joint assemblies**  
+- Performed tolerance checks and full wearable assembly integration  
+- Improved structural alignment, comfort, and load consistency  
+- Built and tested complete prototypes for multi-phase motion tasks  
+
+---
+
+## 🧠 Embedded Systems & Real-Time Control
+- Developed **Teensy 4.1** firmware for knee exoskeleton actuation  
+- Implemented filtering, calibration routines, sensor drivers, and IMU/encoder fusion  
+- Built torque-assistance controllers for sit-to-stand and multi-phase tasks  
+- Created the full logging + communication pipeline for human trials  
 
 ---
 
 ## 🔁 Human-in-the-Loop CMA-ES Optimization
 
 ### **Overview**
-Implementing a **CMA-ES–based optimization pipeline** for online tuning of exoskeleton assistance parameters using human feedback and biomechanical signals.
+Implemented a **CMA-ES–based optimization pipeline** that tunes assistance parameters in real time using human feedback, minimizing effort and improving comfort.
 
-### **Key Features**
-- Real-time optimization of torque and timing parameters with **CMA-ES**  
-- Cost functions combining effort reduction, comfort, and motion smoothness  
+### **Methods**
+- Real-time CMA-ES updates to torque magnitude and timing  
+- Cost functions combining metabolic effort proxies, user comfort, and motion smoothness  
 - Safe perturbation strategy for sit-to-stand and future walking tasks  
-- Teensy–Simulink communication for synchronized control + data logging  
-- Online parameter updates performed trial-by-trial during human testing  
+- Synchronized Teensy–Simulink communication for online optimization  
 
-### **Purpose**
-Enable **personalized exoskeleton assistance** that adapts dynamically to each user’s biomechanics—no manual tuning required.
+**Purpose:** Enable **personalized, adaptive assistance** without manual tuning.
 
 ---
 
-## 📈 Results & Impact
+# 📈 Evaluation / Results
 
-### **Research Outcomes**
-- Delivered reliable electrical modules for multi-phase exoskeleton experiments  
-- Successfully integrated CMA-ES into the sit-to-stand controller pipeline  
-- Improved hip exoskeleton build consistency and structural alignment  
-- Added new sensing/control features to the knee exoskeleton platform  
+### **Effectiveness of the Electrical System**
+- New 4-layer PCB reduced wiring failures and improved reliability during multi-day trials  
+- Lower EMI and cleaner sensor lines → improved torque tracking stability  
+- Enhanced integration between Jetson, sensing units, and motor drivers
 
-### **Engineering Improvements**
-- Reduced wiring complexity and electrical noise  
-- Improved motor-driver robustness with cleaner PCB routing  
-- Enabled rapid human-in-the-loop trials via modular electronics + firmware  
-- Established a reproducible data pipeline for optimization testing  
+### **Effectiveness of the Control & Optimization Pipeline**
+- CMA-ES successfully converged to improved assistive parameters within a small number of trials  
+- Sit-to-stand controller produced smooth, consistent torque profiles  
+- Firmware and data pipeline supported rapid iteration during human testing
 
----
-
-## 💡 Key Lessons
-- Sensor grounding and filtering strongly affect controller stability  
-- Wearability and alignment influence both comfort and optimization outcomes  
-- Hardware, control software, and firmware must be co-designed—not isolated  
-- CMA-ES converges quickly when cost functions reflect user comfort + effort  
-- Rapid iteration and version control are essential for research hardware  
+### **Mechanical & System-Level Impact**
+- Improved joint alignment reduced mechanical friction and enhanced user comfort  
+- Modular hardware allowed for fast swapping of sensors and actuators  
+- Overall system became more reproducible and easier to debug across different test sessions
 
 ---
 
-## 👤 My Roles
+# 🧾 Conclusion
+
+This project demonstrates the integration of **mechanical design**, **embedded systems**, **PCB/electrical engineering**, and **advanced control/optimization** in a wearable robotics research environment.  
+The resulting hardware and firmware systems significantly improved reliability, reduced noise, and enabled **real-time CMA-ES human-in-the-loop optimization**, advancing the lab’s exoskeleton experimental capabilities.
+
+---
+
+# 👤 My Role
 
 ### **Hardware Engineer**
-- Designed multi-layer PCBs and electrical subsystems for exoskeleton prototypes  
-- Integrated embedded electronics and managed power/signal distribution  
+- Designed multi-layer PCBs and electrical subsystems  
+- Integrated sensing, power, and communication hardware  
 
 ### **Mechanical Engineering Contributor**
-- Supported hip exoskeleton prototyping and structural assembly  
-- Ensured mechanical–electrical compatibility across joints and frames  
+- Supported prototyping and structural assembly for hip exoskeletons  
+- Ensured mechanical-electrical compatibility across joints and frames  
 
 ### **Embedded Systems & Optimization Engineer**
-- Developed Teensy firmware for real-time control and data collection  
-- Built the **sit-to-stand assistance controller**  
-- Implemented the **human-in-the-loop CMA-ES optimization pipeline**
+- Programmed Teensy firmware for real-time control  
+- Built the sit-to-stand torque-assistance controller  
+- Implemented the full CMA-ES optimization pipeline  
+
+---
+
+# 🧩 Skills Demonstrated
+- Mechatronics integration  
+- Motor control (FOC, impedance control)  
+- Embedded systems (Teensy, IMUs, encoders)  
+- PCB design (4-layer boards, power distribution)  
+- MATLAB / Simulink / Python  
+- Optimization (CMA-ES)  
+- Mechanical design and prototyping  
 
 ---
 
