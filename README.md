@@ -34,7 +34,6 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Designed PCB and electrical systems for hip exoskeleton prototypes  
 - Contributed to the mechanical design of **V1 & V2 hip exoskeletons**  
 - Programmed **Teensy 4.1** for knee exoskeleton motor control  
-- Developed a **sit-to-stand assistance controller** for knee exoskeleton  
 - Achieved ~8.8% reduction in muscle activation over 78 trials by building an EMG-driven closed-loop system for gait parameter tuning, demonstrating **human-in-the-loop** (HIL) optimization
 
 <figure>
