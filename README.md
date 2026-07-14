@@ -35,7 +35,7 @@ _Pittsburgh, PA · Oct 2024 – Present_
 - Contributed to the mechanical design of **V1 & V2 hip exoskeletons**  
 - Programmed **Teensy 4.1** for knee exoskeleton motor control  
 - Developed a **sit-to-stand assistance controller** for knee exoskeleton  
-- Implemented a **human-in-the-loop CMA-ES optimization pipeline** for adaptive assistance
+- Achieved ~8.8% reduction in muscle activation over 78 trials by building an EMG-driven closed-loop system for gait parameter tuning, demonstrating **human-in-the-loop** (HIL) optimization
 
 <figure>
   <img src="/assets/Hip_Exo.png" alt="Hip Exo" width="400"/>
@@ -49,9 +49,10 @@ _Pittsburgh, PA · Oct 2024 – Present_
 _Nanjing, China · Sep 2023 – Aug 2024_  
 - Designed and assembled custom brushless motors using **SolidWorks**
 - Produced engineering drawings and coordinated DFM with suppliers
-- Designed **5+ planetary reducer gearboxes** with improved efficiency
+- Designed **5+ customized planetary reducer gearboxes** with improved fit, alignment, and performance
 - Tuned motors with **VESC firmware** and validated performance through load testing
-- Improved torque transmission and reduced backlash through iterative redesigns
+- Used **KISSsoft** to perform gear sizing/validation and optimizing tolerance stack-ups across mating components
+
 
 <figure>
   <img src="/assets/Cross_Section_View_of_Custom_Motor.png" alt="Custom Motor" width="300"/>
